@@ -1,0 +1,32 @@
+.textP {
+    display: none;
+    border: 1px solid gray;
+    background-color: bisque;
+    width: 100px;
+    height: 20px ;
+}
+.custom {
+    height: 80vh;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button {
+    width: 150px;
+    height: 100px;
+}
+.hoverP{
+    display: none;
+}
+.myp{
+    height: 20vh;
+    background-color: cadetblue;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
